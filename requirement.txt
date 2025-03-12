@@ -1,6 +1,7 @@
 streamlit
 numpy
 pandas
+matplotlib
 seaborn
 altair
 plotly
@@ -8,3 +9,4 @@ scikit-learn
 xgboost
 shap
 streamlit-extras
+matplot
